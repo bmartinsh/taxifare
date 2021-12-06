@@ -16,6 +16,3 @@ jobs:
       
     - name: Install dependencies
       run: make
-      
-    - name: Run distcheck
-      run: make distcheck
